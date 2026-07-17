@@ -71,6 +71,8 @@ namespace NKG
                     });
                 }
             }
+
+            spikeprefab = GameObject.Find("Nightmare Spike (1)");
             GameObject.Find("Nightmare Spike").transform.SetScaleY(1.38f);
             GameObject.Find("Nightmare Spike(Clone1)").transform.SetScaleY(1.38f);
             GameObject.Find("Nightmare Spike(Clone2)").transform.SetScaleY(1.38f);

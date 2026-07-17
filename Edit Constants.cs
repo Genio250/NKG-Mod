@@ -10,9 +10,12 @@
             DashSpeed = 72f, //58
             PillarCooldown = 0.5f, //0.75
             AfterPillar = 0.1f, //0.25
-            PillarSplit = 0.9f, 
+            PillarSplit = 0.9f,
             SpikeCooldown = 0.7f,
             BatCooldown = 0.25f, //0.3
-            AfterBats = 0.25f; //0.5
+            AfterBats = 0.25f, //0.5
+            DiveSpikeSpacing = 4.5f, //3
+            DiveSpikeSpawn = 0.4f,
+            DiveSpikeDecay = 1.1f;
     }
 }
